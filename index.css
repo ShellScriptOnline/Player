@@ -1,0 +1,27 @@
+.sgl {
+font-family:Calibri;
+color: #ff5252;
+}
+
+.prbl {
+top:77%;
+color:#d90d0d;
+}
+
+a {
+color:#d90d0d;
+font-family:Calibri;
+}
+
+.button {
+	top:72%;
+	width: 130px;
+	height: 25px;
+	margin: 0 auto;
+	position: absolute;
+	border-radius: 10px;
+	background-color: #ff5252;
+	text-align: center;
+	cursor: pointer;
+} 
+
